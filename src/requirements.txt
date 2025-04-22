@@ -4,17 +4,11 @@ pandas==2.1.0
 
 # Excel file processing
 openpyxl==3.1.2  # Modern Excel (.xlsx) files
-xlrd==2.0.1      # Legacy Excel (.xls) files
-xlwt==1.3.0      # Write to legacy Excel files
 xlsxwriter==3.1.2  # Advanced Excel writing
-pyxlsb==1.0.10   # Binary Excel files
 
 # CSV processing
-python-csv==0.0.13
-csvkit==1.1.1    # Command-line tools for CSV
 
 # Data validation and schema
-jsonschema==4.19.0
 pydantic==2.3.0  # Data validation using Python type annotations
 
 # Character encoding detection and handling
@@ -24,3 +18,5 @@ unidecode==1.3.6  # ASCII transliterations of Unicode text
 # Development tools
 black==23.7.0    # Code formatting
 mypy==1.5.1      # Type checking
+
+seaborn==0.13
