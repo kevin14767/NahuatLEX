@@ -88,3 +88,7 @@ coverage/
 htmlcov/
 .pytest_cache/
 .tox/
+
+# Virtual Environment
+nahuaLEX_venv/
+nahuaLEX_env/
