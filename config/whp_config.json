@@ -1,0 +1,14 @@
+{
+    "input_file_pattern": "WHP_EarlyNahuatl_data_*.csv",
+    "required_columns": [
+        "Ref", "Headword", "Orthographic Variants", 
+        "Principal English Translation", "Attestations from sources in English",
+        "Attestations from sources in Spanish", "Alonso de Molina", "Frances Karttunen",
+        "Horacio Carochi / English", "Andrés de Olmos", "Lockhart’s Nahuatl as Written",
+        "themes" , "Spanish Loanword"
+    ],
+    "data_validation_rules": {
+        "Ref": {"type": "str", "required": true},
+        "Headword": {"type": "str", "required": true}
+    }
+}
