@@ -5,7 +5,7 @@ NahuatLEX is a comprehensive collection of lexical resources for Nahuatl languag
 
 ## Project Structure
 
-'''
+```
 nahuatLEX/
 ├── data/                     # Lexical data files
 │   ├── dictionaries/         # Individual language dictionaries
@@ -15,7 +15,7 @@ nahuatLEX/
 │   └── tools/                # Utilities for data processing
 ├── docs/                     # Documentation
 └── tests/                    # Automated tests]
-'''
+```
 
 ### Contributing
 
