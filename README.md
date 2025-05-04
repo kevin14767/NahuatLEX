@@ -8,13 +8,12 @@ NahuatLEX is a comprehensive collection of lexical resources for Nahuatl languag
 ```
 nahuatLEX/
 ├── data/                     # Lexical data files
-│   ├── dictionaries/         # Individual language dictionaries
-│   ├── etymologies/          # Etymological relationships
-│   └── schemas/              # Data validation schemas
+│   ├── interim/              # Individual language dictionaries
+│   ├── raw                   # Etymological relationships
+│   └── processed/            # Data validation schemas
 ├── src/                      # Source code
 │   └── tools/                # Utilities for data processing
 ├── docs/                     # Documentation
-└── tests/                    # Automated tests]
 ```
 
 ### Contributing
