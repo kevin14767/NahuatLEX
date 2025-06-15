@@ -1,7 +1,7 @@
 
 # Development Guide
 
-1. Create a virtual environment:
+1. Create a virtual environment: (Python version 3.11.9 required)
 
 ```bash
 python -m venv nahuaLEX_env
@@ -14,7 +14,7 @@ python -m venv nahuaLEX_env
 2. Install the requirements:
 
 ```bash
-pip install -r requirements.txt
+pip install -r src/requirements.txt
 ```
 
 This requirements file includes:

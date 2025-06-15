@@ -1,6 +1,6 @@
 # Basic data processing
-numpy==1.25.2
-pandas==2.1.0
+numpy==2.3.0
+pandas==2.3.0
 
 # Excel file processing
 openpyxl==3.1.2  # Modern Excel (.xlsx) files
@@ -17,6 +17,13 @@ unidecode==1.3.6  # ASCII transliterations of Unicode text
 
 # Development tools
 black==24.3.0    # Code formatting
-mypy==1.5.1      # Type checking
+mypy==1.16.0      # Type checking
 
 seaborn==0.13
+
+# Kernel
+ipykernel==6.29.5
+
+# beautifulsoup4 
+beautifulsoup4==4.13.4
+inscriptis==2.6.0

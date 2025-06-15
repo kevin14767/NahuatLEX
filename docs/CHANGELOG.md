@@ -18,9 +18,9 @@
 | **IDIEZ morfología** | Morphology of the Nahuatl word from IDIEZ |
 | **Credit** | Source information |
 
-*IDIEZ: Instituto de Docencia e Investigación Etnológica de Zacatecas - an institute specializing in Nahuatl language education and research*
+IDIEZ: Instituto de Docencia e Investigación Etnológica de Zacatecas - an institute specializing in Nahuatl language education and research
 
-## Structure of the WHP Early Nahuatl Data
+## Structure of the WHP (Wired Humanities Projects) Early Nahuatl Data
 
 | Column | Description |
 |--------|-------------|
